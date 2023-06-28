@@ -7,4 +7,3 @@ Found the stable workspace of a Quadruped Robot using Kinematic Analysis
 * Obtained the Stable Workspace of the Robot by plotting the area covered by the centroid of the Next Swing Leg and the Support Polygon using MATLAB
 * Incorporated pitch, yaw and roll, as well as various gaits, including trot, canter and pace
 
-![QuadRobot](https://github.com/SahilTChaudhary/Quadruped-Robot/assets/56467439/20065801-f952-4157-84f5-90b063f433af)
